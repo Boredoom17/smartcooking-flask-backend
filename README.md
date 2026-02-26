@@ -1,1 +1,2 @@
-Project made with [@Vipassi-V](https://github.com/Vipassi-V).
+Project made together with [@Vipassi-V](https://github.com/Vipassi-V).
+
