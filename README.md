@@ -1,1 +1,1 @@
-Project made with co-authored with Vipassi.
+Project made with [@Vipassi-V](https://github.com/Vipassi-V).
